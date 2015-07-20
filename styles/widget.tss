@@ -1,0 +1,6 @@
+"#popView": {
+    viewShadowColor: '#666666',
+    backgroundColor: '#ffffff',
+    height: Ti.UI.SIZE,
+    width: Ti.UI.FILL
+}

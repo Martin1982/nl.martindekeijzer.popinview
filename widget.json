@@ -1,0 +1,13 @@
+{
+	"id": "nl.martindekeijzer.popinview",
+	"name": "nl.martindekeijzer.popinview",
+	"description" : "Pop in a view from the bottom",
+	"author": "Martin de Keijzer",
+	"version": "1.0",
+	"copyright":"Copyright (c) 2015",
+	"license":"Public Domain",
+	"min-alloy-version": "1.0",
+	"min-titanium-version":"2.1",
+	"tags":"alloy, view, pop-in",
+	"platforms":"android,blackberry,ios,mobileweb"
+}
