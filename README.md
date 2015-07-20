@@ -10,7 +10,7 @@ It allows you to toggle a view that shows and hides from the bottom of the scree
 
 1. Install the widget as [documented in the Appcelerator docs](http://docs.appcelerator.com/platform/latest/#!/guide/Basic_Widget) where `com.foo.widget` is `nl.martindekeijzer.popinview`.
 
-2. In any of your Window views you can place the widget at the bottom, just before the `</Alloy>`-close element:
+2. In any of your Window views you can place the widget at the bottom, just before the `</Window>`-close element:
 
     ```xml
     <Alloy>
@@ -37,7 +37,7 @@ It allows you to toggle a view that shows and hides from the bottom of the scree
 3. In your controller add the code to toggle showing the view:
 
     ```javascript
-    function toggleSharedView(e) {
+    function togglePopView(e) {
       $.popview.isOpen() ? $.popview.close() : $.popview.open();
     }
     
