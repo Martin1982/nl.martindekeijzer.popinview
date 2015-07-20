@@ -4,6 +4,8 @@ This is a widget for the [Alloy](http://projects.appcelerator.com/alloy/docs/All
 
 It allows you to toggle a view that shows and hides from the bottom of the screen.
 
+![preview](https://raw.github.com/Martin1982/nl.martindekeijzer.popinview/master/docs/popinview.gif)
+
 ## Usage 
 
 1. Install the widget as [documented in the Appcelerator docs](http://docs.appcelerator.com/platform/latest/#!/guide/Basic_Widget) where `com.foo.widget` is `nl.martindekeijzer.popinview`.
